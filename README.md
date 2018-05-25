@@ -3,7 +3,8 @@
 
 This component is useful for downloading spreadsheet using sheets API in python. This is an end to end process where you can download spreadsheet in any format. Kindly refer to the steps below. 
 
-	
+Download ini  file and python file from current repository.
+
 1. Run Below command one by one <br />
 ```
 	(i)   sudo apt-get update 
