@@ -1,14 +1,16 @@
 
 # Download spreadsheet using sheets api in python
 
-This component is useful for download spreadsheet using sheets api in python. This is an end to end process of downloading spreadsheet in any format,Steps are given below. 
+This component is useful for downloading spreadsheet using sheets API in python. This is an end to end process where you can download spreadsheet in any format. Kindly refer to the steps below. 
 
 	
 1. Run Below command one by one <br />
+```
 	(i)   sudo apt-get update <br />
     	(ii)  sudo apt-get -y install python-pip <br />
      	(iii) pip install --upgrade google-api-python-client
-	
+```
+
 2. Now go to the below link - <br />
 	https://console.developers.google.com/apis/library/sheets.googleapis.com <br />
 	
