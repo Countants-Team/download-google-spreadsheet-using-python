@@ -30,13 +30,23 @@ This component is useful for downloading spreadsheet using sheets API in python.
     ![alt text](https://drive.google.com/uc?id=142bqjHK6q8yiA7lqneqOeDnseV5Rw2Vq)
 
 9.  Select the Credentials tab, click the Create credentials button and select OAuth client ID.
-10. Select the application type Other, enter the name , and click the Create button.
+    
+    ![alt text](https://drive.google.com/uc?id=1gxm1UpnwOuhVC4myFWUyBuuN242V_xXF)
+    
+10. Select the application type as Other, enter the name , and click the Create button.
+
+    ![alt text](https://drive.google.com/uc?id=1vM-D-mu7wc4r4DbFdpkz72HxKgcbffaG)
+    
 11. Click OK to dismiss the resulting dialog. 
 12. Click the download icon (Download JSON) button to the right of the client ID.
 	
+    ![alt text](https://drive.google.com/uc?id=1ie6FDIvxeSj54g5MGEfb11uVvo_XZZVu)
+    
 13.  Move this file to your working directory and rename it client_secret.json.
 14.  Give access permission to the folder in which you want to download the file using below command<br />
+	```
 	 sudo chmod 777 -R dirpath
+	```
 15.  Fill the credential in ini file , And run below command.
 16.  python fileDownloadfromGdrive.py 'fileDownloadfromGdrive.ini'
 
