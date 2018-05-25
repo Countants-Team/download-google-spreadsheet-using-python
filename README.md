@@ -1,7 +1,7 @@
 
 # Download spreadsheet using sheets api in python
 
-This component is use for download spreadsheet using sheets api in python. This is an end to end process of downloading spreadsheet in any format,Steps are given below. 
+This component is useful for download spreadsheet using sheets api in python. This is an end to end process of downloading spreadsheet in any format,Steps are given below. 
 
 	
 1. Run Below command one by one <br />
