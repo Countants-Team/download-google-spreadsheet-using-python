@@ -6,8 +6,8 @@ This component is useful for downloading spreadsheet using sheets API in python.
 	
 1. Run Below command one by one <br />
 ```
-	(i)   sudo apt-get update <br />
-    	(ii)  sudo apt-get -y install python-pip <br />
+	(i)   sudo apt-get update 
+    	(ii)  sudo apt-get -y install python-pip 
      	(iii) pip install --upgrade google-api-python-client
 ```
 
@@ -38,11 +38,11 @@ This component is useful for downloading spreadsheet using sheets API in python.
     ![alt text](https://drive.google.com/uc?id=1vM-D-mu7wc4r4DbFdpkz72HxKgcbffaG)
     
 11. Click OK to dismiss the resulting dialog. 
-12. Click the download icon (Download JSON) button to the right of the client ID.
-	
+12. Click on the download icon (Download JSON) on the right side of the client id.
+
     ![alt text](https://drive.google.com/uc?id=1ie6FDIvxeSj54g5MGEfb11uVvo_XZZVu)
     
-13.  Move this file to your working directory and rename it client_secret.json.
+13.  Move this file to your working directory and rename it as client_secret.json.
 14.  Give access permission to the folder in which you want to download the file using below command<br />
 	```
 	 sudo chmod 777 -R dirpath
